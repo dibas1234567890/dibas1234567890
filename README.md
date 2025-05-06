@@ -4,73 +4,78 @@ AI/ML Engineer | Language Systems Enthusiast | Automation Architect
 
 From streamlining NLP pipelines to crafting low-latency LLM tools, I work on problems at the intersection of language, data, and engineering efficiency. Currently shipping agentic ML systems, multilingual bots, and fast-response tools from Kathmandu.
 
-![This is fine](https://tenor.com/view/ai-alignment-are-artifical-hooked-gif-1523648872456433457)
-
----
-
-## About Me
-
-- AI/ML Engineer @ Creolio.com  
-- Built Roman Nepali → Devanagari transliteration with ~1 sec latency  
-- Created LLM services for low-resource languages used by local governments  
-- Former IT support specialist with experience across hardware, networking, and security  
-- Developing end-to-end agentic tools to automate modern workflows  
-- Deeply interested in making AI accessible and equitable — not just efficient
+![ai alignment](https://media.tenor.com/6-FyegPXu-oAAAAd/ai-alignment-are-artifical.gif)
 
 ---
 
 ## Purpose-Driven AI
 
 I believe AI should empower people, not replace or exclude them.  
-My work is guided by principles of **AI democratization**, **fair access**, and **ethical deployment**, particularly for communities that are often underrepresented in the tech landscape.
-
-I'm passionate about:
-- Localized NLP for under-resourced languages
-- Human-centered design in AI tools
-- Transparent model behavior and explainability
-- Bridging infrastructure gaps with open, lean AI solutions
+My work is guided by principles of **AI democratization**, **fair access**, and **ethical deployment**, especially for underrepresented language communities and resource-constrained environments.
 
 ---
 
-## Technologies I Use
+## 🛠️ Tech & Tools
 
-**Core Languages & Frameworks**  
-Python · SQL · Bash · FastAPI · Django · PySpark
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-e25a1c?logo=apachespark&logoColor=white)
 
-**AI / ML Tools**  
-Transformers · TensorFlow · PyTorch · SpaCy · NLTK · Scikit-learn · Polars · LangChain · RAG Systems · Fine-tuning & Quantization
+**ML / NLP Ecosystem**  
+![Transformers](https://img.shields.io/badge/Transformers-huggingface-yellow)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat)  
+![Polars](https://img.shields.io/badge/Polars-5A6986?style=flat&logo=rust&logoColor=orange)
 
-**Infrastructure & Databases**  
-Docker · Redis · MongoDB · FAISS · Azure (CosmosDB, Databricks) · NoSQL
-
-**Workflow Engineering**  
-CI/CD · ETL Pipelines · Tokenization · Prompt Optimization · Latency Tuning · Model Context Protocol
+**Databases & Infra**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)  
+![FAISS](https://img.shields.io/badge/FAISS-282828?style=flat)
 
 ---
 
-## Certified Learnings
+## 🎓 Certifications
 
-- Deep Learning for Healthcare — University of Illinois (Mar 2025)  
-- Introduction to Machine Learning — Duke University (Dec 2023)  
-- Mathematics for ML: Linear Algebra — Imperial College London (Nov 2023)
+![Duke ML](https://img.shields.io/badge/Duke%20University-Intro%20to%20ML-blue)  
+![Imperial Math](https://img.shields.io/badge/Imperial%20College-Math%20for%20ML%20(Linear%20Algebra)-blueviolet)  
+![UIUC Healthcare](https://img.shields.io/badge/UIUC-Deep%20Learning%20for%20Healthcare-orange)
 
-[See my certifications](https://www.coursera.org/account/accomplishments/verify/XWPJ7RN6ZXCL)
+🔗 [Verify Certifications](https://www.coursera.org/account/accomplishments/verify/XWPJ7RN6ZXCL)
 
 ---
 
-## Goals for 2025
+## 📈 GitHub Stats
 
-- Open source my LLM agent framework  
-- Release localization tools for underrepresented scripts  
-- Build bots that are actually useful  
-- Improve latency and KV cache leverage in GenAI deployments  
-- Advocate for ethical, inclusive AI through real-world code
+![Dibas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibas1234567890&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibas1234567890&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dibas1234567890&theme=default)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dibas1234567890&theme=flat&column=7)  
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=dibas1234567890&theme=github)](https://github.com/dibas1234567890)
+
+---
+
+## 🧠 2025 Goals
+
+- Open source agentic LLM tools  
+- Release localization libraries for under-resourced languages  
+- Ship bots that actually solve things (not just reply "I am here to help")  
+- Push for real-world adoption of ethical, explainable AI
 
 ---
 
 ## Contact
 
-dibaspratap@gmail.com  
-GitHub: [@dibas1234567890](https://github.com/dibas1234567890)
+📧 dibaspratap@gmail.com  
+🔗 GitHub: [@dibas1234567890](https://github.com/dibas1234567890)
 
-> "Code like no one's watching, optimize like everyone’s judging."
+> "Code like no one's watching. Optimize like everyone’s judging."
